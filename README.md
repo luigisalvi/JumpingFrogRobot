@@ -30,7 +30,7 @@ Direct_Kin_frog(plot_trigger, 205, 95, 235); %*
 ### Inverse Kinematics Validation:
 
 <p align="center">
-  <img src="inverse_kin_2" alt="Inverse Kinematics">
+  <img src="inverse_kin_2.jpg" alt="Inverse Kinematics">
 </p>
 
 
