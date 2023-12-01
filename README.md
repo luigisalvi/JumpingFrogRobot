@@ -29,6 +29,11 @@ Direct_Kin_frog(plot_trigger, 205, 95, 235); %*
 
 ### Inverse Kinematics Validation:
 
+<p align="center">
+  <img src="inverse_kin_2" alt="Frog Robot">
+</p>
+
+
 This part of the script involves generating a desired trajectory and validating the inverse kinematics process. The `Inverse_Kin_frog` function is used to find the joint angles for each point on the trajectory, and the robot's movement is visualized.
 
 ```matlab
