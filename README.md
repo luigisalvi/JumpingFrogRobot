@@ -2,6 +2,11 @@
 
 This section provides a detailed overview of the MATLAB script for simulating the kinematics of a jumping robot frog firstly developed by N. Reddy, R. Ray, S. N. Shome [1]. The comprehensive script encompasses both direct and inverse kinematics computations, trajectory generation, and extensive visualization capabilities for a thorough understanding of the robot's movements.
 
+<p align="center">
+  <img src="frog_robot.png" alt="Frog Robot">
+</p>
+
+
 ## Main Kinematics Script (`main.m`)
 
 ### Direct Kinematics Validation:
